@@ -7,6 +7,9 @@ import phrase from "../assets/images/phrase.png";
 export default function Header() {
   return (
     <div className={h.Header}>
+      
+      <marquee behavior="scroll" direction="left">внимание!!! данный сайт создан школьником и является лишь вспомогательным материалом для практики и портфолио!!!</marquee>
+
       <div className={h.nav}>
         <a className={h.ssilka} href='#'>
           <img className={h.vector} src={vector}/>
