@@ -1,0 +1,380 @@
+:root{
+    --one:"Roboto";
+}
+
+a{
+    text-decoration: none;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.Main{
+    max-width: 880px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.Christmas{
+    width: 100%;
+}
+
+.Greetings{
+    font-family: var(--one);
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 34px;
+/* identical to box height, or 142% */
+
+margin-bottom: 20px;
+color: #292929;
+}
+
+.about{
+    font-family: var(--one);
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 34px;
+/* or 142% */
+margin-bottom: 20px;
+
+color: #292929;
+}
+
+.offer{
+    font-family: var(--one);
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* or 139% */
+margin-bottom: 20px;
+
+color: #292929;
+}
+
+.woman{
+    margin-bottom: 20px;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.btn{
+    width: 100%;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    padding-left: 40%;
+    padding-right: 25%;
+    border-radius: 10px;
+    border: 1px solid #000000;
+    margin-bottom: 40px;
+}
+
+.nearInst{
+    font-family: var(--one);
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height, or 139% */
+margin-left: 10px;
+
+color: #292929;
+}
+
+.examples {
+    font-family: var(--one);
+font-style: normal;
+font-weight: 700px;
+font-size: 24px;
+line-height: 25px;
+/* identical to box height, or 104% */
+width: 700px;
+margin-bottom: 40px;
+color: #292929;
+}
+
+.cardOne {
+    width: 880px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
+}
+
+.cardTwo {
+    width: 880px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
+}
+
+.cardThree {
+    width: 880px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
+    margin-bottom: 40px;
+}
+
+.one{
+    height: 400px;
+    border-radius: 15px;
+    width: 280px;
+}
+
+.two{
+    height: 400px;
+    border-radius: 15px;
+    width: 280px;
+
+}
+
+.three{
+    height: 400px;
+    border-radius: 15px;
+    width: 280px;
+
+}
+
+.four{
+    height: 400px;
+    border-radius: 15px;
+    width: 280px;
+}
+
+.five{
+    height: 400px;
+    border-radius: 15px;
+    width: 280px;
+
+}
+
+.six{
+    height: 400px;
+    border-radius: 15px;
+    width: 280px;
+
+}
+
+.seven{
+    height: 400px;
+    border-radius: 15px;
+    width: 280px;
+}
+
+.eight{
+    height: 400px;
+    border-radius: 15px;
+    width: 280px;
+
+}
+
+.nine{
+    height: 400px;
+    border-radius: 15px;
+    width: 280px;
+
+}
+
+.question{
+    font-family: var(--one);
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 25px;
+/* identical to box height, or 104% */
+margin-bottom: 30px;
+
+color: #292929;
+
+}
+
+.ul{
+    margin-bottom: 40px;
+    padding-left: 20px;
+}
+
+.li{
+    font-family: var(--one);
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height, or 139% */
+margin-bottom: 12px;
+
+color: #292929;
+
+}
+
+.lorem{
+    font-family: var(--one);
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* or 139% */
+
+margin-bottom: 40px;
+color: #292929;
+}
+
+.greenCard{
+    width: 100%;
+    height: 220px;
+    background-color: #015E49;
+    border-radius: 15px;
+    text-align: center;
+    padding: 44px 210px;
+    margin-bottom: 20px;
+}
+
+.advise{
+    font-family: var(--one);
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 34px;
+/* or 142% */
+margin-bottom: 30px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.Gtel{
+    font-family: var(--one);
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 34px;
+/* identical to box height, or 94% */
+text-align: center;
+text-decoration-line: underline;
+color: #FFFFFF;
+}
+
+.btnBox{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+.Sbtn{
+    width: 49%;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    padding-left: 15%;
+    border-radius: 10px;
+    border: 1px solid #000000;
+    margin-bottom: 40px;
+}
+
+.looking{
+    width: 49%;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: 1px solid #000000;
+
+    font-family: var(--one);
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height, or 139% */
+
+text-align: center;
+
+color: #292929;
+}
+
+.end {
+    font-family: var(--one);
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+/* identical to box height, or 167% */
+cursor: pointer;
+text-align: center;
+text-decoration-line: underline;
+
+color: #868686;
+}
+
+
+/* hover  */
+
+.btn:hover {
+    transition: all 0.5s linear;
+    background-color: #015E49;
+}
+
+.btn:hover .nearInst{
+    transition: all 0.5s linear;
+    color: #FFFFFF;
+}
+
+
+
+.Sbtn:hover {
+    transition: all 0.5s linear;
+    background-color: #015E49;
+}
+
+.Sbtn:hover .nearInst{
+    transition: all 0.5s linear;
+    color: #FFFFFF;
+}
+
+
+
+
+.looking:hover {
+    transition: all 0.5s linear;
+    background-color: #015E49;
+    color:#FFFFFF;
+}
+
+
+
+
+
+.greenCard:hover {
+    transition: all 0.5s linear;
+    background-color: #FFFFFF;
+    border: 1px solid black;
+}
+
+.greenCard:hover .advise{
+    transition: all 0.5s linear;
+    color: #000000;
+}
+
+.greenCard:hover .Gtel{
+    transition: all 0.5s linear;
+    color: #000000;
+}
