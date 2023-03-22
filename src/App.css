@@ -18,7 +18,9 @@ html{
 }
 
 .wrapper{ 
-    width: 880px;
+    width: 900px;
     margin: 0 auto;
     scroll-behavior: smooth;
+    padding-left: 10px;
+    padding-right: 10px;
 }
